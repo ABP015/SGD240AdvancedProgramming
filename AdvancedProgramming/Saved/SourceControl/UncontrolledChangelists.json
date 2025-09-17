@@ -11,7 +11,9 @@
 				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/CB/9X3GXC6DPYPIOQAMRRRVEU.uasset",
 				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/ThirdPerson/Maps/WallRunLevel.umap",
-				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/ThirdPerson/Blueprints/BP_ThirdPerson_WallRun.uasset"
+				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/ThirdPerson/Blueprints/BP_ThirdPerson_WallRun.uasset",
+				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_WallRun.uasset",
+				"C:/Users/alici/OneDrive/Documents/GitHub/SGD240AdvancedProgramming/AdvancedProgramming/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]

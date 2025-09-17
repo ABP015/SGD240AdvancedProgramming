@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AdvancedProgramming",
+			"Path": "..\\Source\\AdvancedProgramming.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdvancedProgrammingEditor",
+			"Path": "..\\Source\\AdvancedProgrammingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
